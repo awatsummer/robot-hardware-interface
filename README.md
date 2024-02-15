@@ -14,7 +14,7 @@ Once downlaoded, open the installer and follow the instructions.
 ** DO THIS BEFORE CONNECTING ANYTHING **
 1. Turn off Wifi
 2. Open control panel
-3. Click on "Network and Sharing"
+3. Click on "Network and Sharing Center"
 4. Click on "Change adapter settings"
 5. Click on wanted Ethernet network (will probably say "Not Connected")
 6. Click on "Change Settings of this Network"
